@@ -1,4 +1,4 @@
-# 18_projeto
+# CRUD - Make your Burger
 
 ## Project setup
 ```
@@ -12,7 +12,8 @@ npm run serve
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run serve 
+npm run backend
 ```
 
 ### Customize configuration
